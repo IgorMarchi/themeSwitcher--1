@@ -1,6 +1,7 @@
 <p align="center">
   <img alt="App Demo" src="public/gitHub/switch.gif">
 </p>
+
 ## :rocket: Technologies
 
 This project was developed with the following technologies:
